@@ -1,0 +1,50 @@
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.frmMain.resources
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\Users\Daffodil\Desktop\pro\EmailSender\EmailSender\obj\x86\Debug\EmailSender.UI.frmDeveloper.resources
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\Project Mechanism\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\Project Mechanism\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.frmMain.resources
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.UI.frmDeveloper.resources
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
+D:\Project Mechanism\EmailSender\EmailSender\obj\x86\Debug\EmailSender.frmFlashScreen.resources
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.exe
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.pdb
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.exe
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.pdb
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.frmFlashScreen.resources
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.frmMain.resources
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.UI.frmDeveloper.resources
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+D:\Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.pdb
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.frmFlashScreen.resources
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.frmMain.resources
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.UI.frmDeveloper.resources
+C:\Users\Daffodil\Desktop\Quick Email Sender\SourceCode\EmailSender - Version 1.0\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.frmFlashScreen.resources
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.frmMain.resources
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.UI.frmDeveloper.resources
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+C:\Users\Jeshad Khan\Desktop\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
